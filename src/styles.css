@@ -1,1 +1,8 @@
 /* You can add global styles to this file, and also import other style files */
+body {
+    background-color: #34ace0;
+}
+
+.card-body {
+    padding: 1.25rem 1.5rem 1.25rem 1.5rem; 
+}
